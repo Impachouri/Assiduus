@@ -27,6 +27,23 @@
     padding: 8px 8px 8px 30px;
 }
 
+@media (max-width: 768px) {
+    .account-section {
+        display: flex;
+        width: 100%;
+        max-width: none;
+    }
+
+    .account-section input {
+        width: 20%;
+        background-color: #f6f7f9;
+        border: none;
+        border-radius: 5px;
+        padding: 8px 8px 8px 30px;
+    }
+
+  }
+
 #icon {
     position: relative;
     left: 35px;
