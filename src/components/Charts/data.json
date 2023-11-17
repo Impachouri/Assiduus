@@ -1,0 +1,50 @@
+{
+  "january": [
+    { "xpoint": 9, "ypoint": 10 },
+    { "xpoint": 10, "ypoint": 20 },
+    { "xpoint": 11, "ypoint": 30 },
+    { "xpoint": 12, "ypoint": 25 },
+    { "xpoint": 13, "ypoint": 20 },
+    { "xpoint": 14, "ypoint": 25 },
+    { "xpoint": 15, "ypoint": 10 },
+    { "xpoint": 16, "ypoint": 15 },
+    { "xpoint": 17, "ypoint": 20 },
+    { "xpoint": 18, "ypoint": 23 }
+  ],
+  "february": [
+    { "xpoint": 9, "ypoint": 12 },
+    { "xpoint": 10, "ypoint": 18 },
+    { "xpoint": 11, "ypoint": 32 },
+    { "xpoint": 12, "ypoint": 22 },
+    { "xpoint": 13, "ypoint": 17 },
+    { "xpoint": 14, "ypoint": 28 },
+    { "xpoint": 15, "ypoint": 13 },
+    { "xpoint": 16, "ypoint": 14 },
+    { "xpoint": 17, "ypoint": 19 },
+    { "xpoint": 18, "ypoint": 25 }
+  ],
+  "march": [
+    { "xpoint": 9, "ypoint": 15 },
+    { "xpoint": 10, "ypoint": 22 },
+    { "xpoint": 11, "ypoint": 28 },
+    { "xpoint": 12, "ypoint": 20 },
+    { "xpoint": 13, "ypoint": 19 },
+    { "xpoint": 14, "ypoint": 24 },
+    { "xpoint": 15, "ypoint": 11 },
+    { "xpoint": 16, "ypoint": 16 },
+    { "xpoint": 17, "ypoint": 21 },
+    { "xpoint": 18, "ypoint": 26 }
+  ],
+  "april": [
+    { "xpoint": 9, "ypoint": 18 },
+    { "xpoint": 10, "ypoint": 24 },
+    { "xpoint": 11, "ypoint": 26 },
+    { "xpoint": 12, "ypoint": 23 },
+    { "xpoint": 13, "ypoint": 21 },
+    { "xpoint": 14, "ypoint": 22 },
+    { "xpoint": 15, "ypoint": 14 },
+    { "xpoint": 16, "ypoint": 17 },
+    { "xpoint": 17, "ypoint": 19 },
+    { "xpoint": 18, "ypoint": 24 }
+  ]
+}

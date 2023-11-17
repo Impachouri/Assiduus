@@ -1,0 +1,43 @@
+/* AccountWatchList.css */
+
+/* table {
+    padding: 10px;
+}
+
+th {
+    width: 100px;
+    text-align: left;
+    color: #c6c9cb;
+    font-weight: 500;
+}
+
+th:first-child{
+    width: 300px;
+
+}
+
+td {
+    font-weight: 500;
+} */
+
+
+/* AccountWatchList.css */
+table {
+    padding: 10px;
+  }
+  
+  th {
+    width: 100px;
+    text-align: left;
+    color: #c6c9cb;
+    font-weight: 500;
+  }
+  
+  th:first-child {
+    width: 300px;
+  }
+  
+  td {
+    font-weight: 500;
+  }
+  
